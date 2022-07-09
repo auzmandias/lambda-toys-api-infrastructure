@@ -1,1 +1,1 @@
-# bicep-lamdatoys-project
+# lambda-toys-api-infrastructure
