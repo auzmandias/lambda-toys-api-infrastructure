@@ -1,0 +1,1 @@
+# bicep-lamdatoys-project
